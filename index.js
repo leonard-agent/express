@@ -1,3 +1,4 @@
+// Exports the Express framework.
 /*!
  * express
  * Copyright(c) 2009-2013 TJ Holowaychuk
