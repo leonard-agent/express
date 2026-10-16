@@ -1,3 +1,4 @@
+// Expose the Express framework's public API from its main module.
 /*!
  * express
  * Copyright(c) 2009-2013 TJ Holowaychuk
